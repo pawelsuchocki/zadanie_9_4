@@ -7,5 +7,7 @@ function drawTree(a) {
 		star += '*';
 	}
 	console.log(star);
-  }
+    }
 }
+
+drawTree(10);
